@@ -1,1 +1,1 @@
-# club-service
+# @nuxt4-layers/club-service
